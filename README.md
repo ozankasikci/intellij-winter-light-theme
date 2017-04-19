@@ -1,4 +1,5 @@
 # intellij-winter-light-theme
+![Demo](https://ozankasikci.github.io/images/demo.png)
 
 ## Installation
 
